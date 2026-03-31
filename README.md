@@ -5,4 +5,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0709-to-lower-case) |
+| [3019-number-of-changing-keys](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/3019-number-of-changing-keys) |
 <!---LeetCode Topics End-->
