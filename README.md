@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0035-search-insert-position) |
 | [0682-baseball-game](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/1550-three-consecutive-odds) |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0682-baseball-game) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
