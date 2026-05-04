@@ -3,7 +3,8 @@
  * @return {boolean}
  */
 var isPalindrome = function(x) {
-  const reversed = String(x).split('').reverse().join('');
+  const reversed = String(x).split("").reverse().join('')
+
   if(x==reversed){
     return true
   }  else{
