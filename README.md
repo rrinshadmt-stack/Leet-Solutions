@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0066-plus-one) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
