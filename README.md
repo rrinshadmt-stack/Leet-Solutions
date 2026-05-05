@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/1550-three-consecutive-odds) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
