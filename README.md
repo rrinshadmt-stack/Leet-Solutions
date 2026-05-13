@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0070-climbing-stairs) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
