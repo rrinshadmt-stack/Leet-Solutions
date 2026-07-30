@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/1550-three-consecutive-odds) |
+| [1649-create-sorted-array-through-instructions](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/1649-create-sorted-array-through-instructions) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/2942-find-words-containing-character) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/0035-search-insert-position) |
+| [1649-create-sorted-array-through-instructions](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/1649-create-sorted-array-through-instructions) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +78,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/1649-create-sorted-array-through-instructions) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/1649-create-sorted-array-through-instructions) |
+## Segment Tree
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/1649-create-sorted-array-through-instructions) |
+## Merge Sort
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/1649-create-sorted-array-through-instructions) |
+## Ordered Set
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/rrinshadmt-stack/Leet-Solutions/tree/master/1649-create-sorted-array-through-instructions) |
 <!---LeetCode Topics End-->
